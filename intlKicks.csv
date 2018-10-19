@@ -1,0 +1,695 @@
+﻿Event,Year,ID,Round,KickNum,Success
+WC,1982,WC1,Semi-finals,1,1
+WC,1982,WC1,Semi-finals,2,1
+WC,1982,WC1,Semi-finals,3,1
+WC,1982,WC1,Semi-finals,4,1
+WC,1982,WC1,Semi-finals,5,1
+WC,1982,WC1,Semi-finals,6,0
+WC,1982,WC1,Semi-finals,7,0
+WC,1982,WC1,Semi-finals,8,1
+WC,1982,WC1,Semi-finals,9,1
+WC,1982,WC1,Semi-finals,10,1
+WC,1982,WC1,Semi-finals,11,0
+WC,1982,WC1,Semi-finals,12,1
+WC,1986,WC2,Quarter-finals,1,0
+WC,1986,WC2,Quarter-finals,2,1
+WC,1986,WC2,Quarter-finals,3,1
+WC,1986,WC2,Quarter-finals,4,1
+WC,1986,WC2,Quarter-finals,5,1
+WC,1986,WC2,Quarter-finals,6,1
+WC,1986,WC2,Quarter-finals,7,1
+WC,1986,WC2,Quarter-finals,8,0
+WC,1986,WC2,Quarter-finals,9,0
+WC,1986,WC2,Quarter-finals,10,1
+WC,1986,WC3,Quarter-finals,1,1
+WC,1986,WC3,Quarter-finals,2,1
+WC,1986,WC3,Quarter-finals,3,1
+WC,1986,WC3,Quarter-finals,4,0
+WC,1986,WC3,Quarter-finals,5,1
+WC,1986,WC3,Quarter-finals,6,0
+WC,1986,WC3,Quarter-finals,7,1
+WC,1986,WC4,Quarter-finals,1,1
+WC,1986,WC4,Quarter-finals,2,1
+WC,1986,WC4,Quarter-finals,3,0
+WC,1986,WC4,Quarter-finals,4,1
+WC,1986,WC4,Quarter-finals,5,1
+WC,1986,WC4,Quarter-finals,6,1
+WC,1986,WC4,Quarter-finals,7,1
+WC,1986,WC4,Quarter-finals,8,1
+WC,1986,WC4,Quarter-finals,9,1
+WC,1986,WC4,Quarter-finals,10,1
+WC,1990,WC5,Second Round,1,1
+WC,1990,WC5,Second round,2,1
+WC,1990,WC5,Second round,3,1
+WC,1990,WC5,Second round,4,1
+WC,1990,WC5,Second round,5,1
+WC,1990,WC5,Second round,6,1
+WC,1990,WC5,Second round,7,1
+WC,1990,WC5,Second round,8,1
+WC,1990,WC5,Second round,9,0
+WC,1990,WC5,Second round,10,1
+WC,1990,WC6,Quarter-finals,1,1
+WC,1990,WC6,Quarter-finals,2,0
+WC,1990,WC6,Quarter-finals,3,1
+WC,1990,WC6,Quarter-finals,4,1
+WC,1990,WC6,Quarter-finals,5,0
+WC,1990,WC6,Quarter-finals,6,1
+WC,1990,WC6,Quarter-finals,7,0
+WC,1990,WC6,Quarter-finals,8,0
+WC,1990,WC6,Quarter-finals,9,1
+WC,1990,WC6,Quarter-finals,10,0
+WC,1990,WC7,Semi-finals,1,1
+WC,1990,WC7,Semi-finals,2,1
+WC,1990,WC7,Semi-finals,3,1
+WC,1990,WC7,Semi-finals,4,1
+WC,1990,WC7,Semi-finals,5,1
+WC,1990,WC7,Semi-finals,6,1
+WC,1990,WC7,Semi-finals,7,0
+WC,1990,WC7,Semi-finals,8,1
+WC,1990,WC7,Semi-finals,9,0
+WC,1990,WC8,Semi-finals,1,1
+WC,1990,WC8,Semi-finals,2,1
+WC,1990,WC8,Semi-finals,3,1
+WC,1990,WC8,Semi-finals,4,1
+WC,1990,WC8,Semi-finals,5,1
+WC,1990,WC8,Semi-finals,6,1
+WC,1990,WC8,Semi-finals,7,0
+WC,1990,WC8,Semi-finals,8,1
+WC,1990,WC8,Semi-finals,9,0
+WC,1994,WC9,Second round,1,0
+WC,1994,WC9,Second round,2,0
+WC,1994,WC9,Second round,3,0
+WC,1994,WC9,Second round,4,1
+WC,1994,WC9,Second round,5,0
+WC,1994,WC9,Second round,6,1
+WC,1994,WC9,Second round,7,1
+WC,1994,WC9,Second round,8,1
+WC,1994,WC10,Quarter-finals,1,0
+WC,1994,WC10,Quarter-finals,2,1
+WC,1994,WC10,Quarter-finals,3,1
+WC,1994,WC10,Quarter-finals,4,1
+WC,1994,WC10,Quarter-finals,5,1
+WC,1994,WC10,Quarter-finals,6,1
+WC,1994,WC10,Quarter-finals,7,1
+WC,1994,WC10,Quarter-finals,8,0
+WC,1994,WC10,Quarter-finals,9,1
+WC,1994,WC10,Quarter-finals,10,1
+WC,1994,WC10,Quarter-finals,11,1
+WC,1994,WC10,Quarter-finals,12,0
+WC,1994,WC11,Final,1,0
+WC,1994,WC11,Final,2,0
+WC,1994,WC11,Final,3,1
+WC,1994,WC11,Final,4,1
+WC,1994,WC11,Final,5,1
+WC,1994,WC11,Final,6,1
+WC,1994,WC11,Final,7,0
+WC,1994,WC11,Final,8,1
+WC,1994,WC11,Final,9,0
+WC,1998,WC12,Second round,1,1
+WC,1998,WC12,Second round,2,1
+WC,1998,WC12,Second round,3,0
+WC,1998,WC12,Second round,4,0
+WC,1998,WC12,Second round,5,1
+WC,1998,WC12,Second round,6,1
+WC,1998,WC12,Second round,7,1
+WC,1998,WC12,Second round,8,1
+WC,1998,WC12,Second round,9,1
+WC,1998,WC12,Second round,10,0
+WC,1998,WC13,Quarter-finals,1,1
+WC,1998,WC13,Quarter-finals,2,1
+WC,1998,WC13,Quarter-finals,3,0
+WC,1998,WC13,Quarter-finals,4,0
+WC,1998,WC13,Quarter-finals,5,1
+WC,1998,WC13,Quarter-finals,6,1
+WC,1998,WC13,Quarter-finals,7,1
+WC,1998,WC13,Quarter-finals,8,1
+WC,1998,WC13,Quarter-finals,9,1
+WC,1998,WC13,Quarter-finals,10,0
+WC,1998,WC14,Semi-finals,1,1
+WC,1998,WC14,Semi-finals,2,1
+WC,1998,WC14,Semi-finals,3,1
+WC,1998,WC14,Semi-finals,4,1
+WC,1998,WC14,Semi-finals,5,1
+WC,1998,WC14,Semi-finals,6,0
+WC,1998,WC14,Semi-finals,7,1
+WC,1998,WC14,Semi-finals,8,0
+WC,2002,WC15,Second round,1,1
+WC,2002,WC15,Second round,2,1
+WC,2002,WC15,Second round,3,0
+WC,2002,WC15,Second round,4,1
+WC,2002,WC15,Second round,5,0
+WC,2002,WC15,Second round,6,0
+WC,2002,WC15,Second round,7,0
+WC,2002,WC15,Second round,8,0
+WC,2002,WC15,Second round,9,1
+WC,2002,WC15,Second round,10,1
+WC,2002,WC16,Quarter-finals,1,1
+WC,2002,WC16,Quarter-finals,2,1
+WC,2002,WC16,Quarter-finals,3,1
+WC,2002,WC16,Quarter-finals,4,1
+WC,2002,WC16,Quarter-finals,5,1
+WC,2002,WC16,Quarter-finals,6,1
+WC,2002,WC16,Quarter-finals,7,1
+WC,2002,WC16,Quarter-finals,8,0
+WC,2002,WC16,Quarter-finals,9,1
+WC,2006,WC17,Second round,1,0
+WC,2006,WC17,Second round,2,0
+WC,2006,WC17,Second round,3,1
+WC,2006,WC17,Second round,4,0
+WC,2006,WC17,Second round,5,1
+WC,2006,WC17,Second round,6,0
+WC,2006,WC17,Second round,7,1
+WC,2006,WC18,Quarter-finals,1,1
+WC,2006,WC18,Quarter-finals,2,1
+WC,2006,WC18,Quarter-finals,3,1
+WC,2006,WC18,Quarter-finals,4,0
+WC,2006,WC18,Quarter-finals,5,1
+WC,2006,WC18,Quarter-finals,6,1
+WC,2006,WC18,Quarter-finals,7,1
+WC,2006,WC18,Quarter-finals,8,0
+WC,2006,WC19,Quarter-finals,1,1
+WC,2006,WC19,Quarter-finals,2,0
+WC,2006,WC19,Quarter-finals,3,0
+WC,2006,WC19,Quarter-finals,4,1
+WC,2006,WC19,Quarter-finals,5,0
+WC,2006,WC19,Quarter-finals,6,0
+WC,2006,WC19,Quarter-finals,7,1
+WC,2006,WC19,Quarter-finals,8,0
+WC,2006,WC19,Quarter-finals,9,1
+WC,2006,WC20,Final,1,1
+WC,2006,WC20,Final,2,1
+WC,2006,WC20,Final,3,1
+WC,2006,WC20,Final,4,0
+WC,2006,WC20,Final,5,1
+WC,2006,WC20,Final,6,1
+WC,2006,WC20,Final,7,1
+WC,2006,WC20,Final,8,1
+WC,2006,WC20,Final,9,1
+WC,2010,WC21,Second round,1,1
+WC,2010,WC21,Second round,2,1
+WC,2010,WC21,Second round,3,1
+WC,2010,WC21,Second round,4,1
+WC,2010,WC21,Second round,5,1
+WC,2010,WC21,Second round,6,0
+WC,2010,WC21,Second round,7,1
+WC,2010,WC21,Second round,8,1
+WC,2010,WC21,Second round,9,1
+WC,2010,WC22,Quarter-finals,1,1
+WC,2010,WC22,Quarter-finals,2,1
+WC,2010,WC22,Quarter-finals,3,1
+WC,2010,WC22,Quarter-finals,4,1
+WC,2010,WC22,Quarter-finals,5,1
+WC,2010,WC22,Quarter-finals,6,0
+WC,2010,WC22,Quarter-finals,7,0
+WC,2010,WC22,Quarter-finals,8,0
+WC,2010,WC22,Quarter-finals,9,1
+WC,2014,WC23,Second round,1,1
+WC,2014,WC23,Second round,2,0
+WC,2014,WC23,Second round,3,0
+WC,2014,WC23,Second round,4,0
+WC,2014,WC23,Second round,5,1
+WC,2014,WC23,Second round,6,1
+WC,2014,WC23,Second round,7,0
+WC,2014,WC23,Second round,8,1
+WC,2014,WC23,Second round,9,1
+WC,2014,WC23,Second round,10,0
+WC,2014,WC24,Second round,1,1
+WC,2014,WC24,Second round,2,1
+WC,2014,WC24,Second round,3,1
+WC,2014,WC24,Second round,4,1
+WC,2014,WC24,Second round,5,1
+WC,2014,WC24,Second round,6,1
+WC,2014,WC24,Second round,7,1
+WC,2014,WC24,Second round,8,0
+WC,2014,WC24,Second round,9,1
+WC,2014,WC25,Quarter-finals,1,1
+WC,2014,WC25,Quarter-finals,2,1
+WC,2014,WC25,Quarter-finals,3,0
+WC,2014,WC25,Quarter-finals,4,1
+WC,2014,WC25,Quarter-finals,5,1
+WC,2014,WC25,Quarter-finals,6,1
+WC,2014,WC25,Quarter-finals,7,1
+WC,2014,WC25,Quarter-finals,8,1
+WC,2014,WC25,Quarter-finals,9,0
+WC,2014,WC26,Semi-finals,1,0
+WC,2014,WC26,Semi-finals,2,1
+WC,2014,WC26,Semi-finals,3,1
+WC,2014,WC26,Semi-finals,4,1
+WC,2014,WC26,Semi-finals,5,0
+WC,2014,WC26,Semi-finals,6,1
+WC,2014,WC26,Semi-finals,7,1
+WC,2014,WC26,Semi-finals,8,1
+WC,2018,WC27,Second round,1,1
+WC,2018,WC27,Second round,2,1
+WC,2018,WC27,Second round,3,1
+WC,2018,WC27,Second round,4,1
+WC,2018,WC27,Second round,5,0
+WC,2018,WC27,Second round,6,1
+WC,2018,WC27,Second round,7,1
+WC,2018,WC27,Second round,8,1
+WC,2018,WC27,Second round,9,0
+WC,2018,WC28,Second round,1,0
+WC,2018,WC28,Second round,2,0
+WC,2018,WC28,Second round,3,1
+WC,2018,WC28,Second round,4,1
+WC,2018,WC28,Second round,5,1
+WC,2018,WC28,Second round,6,1
+WC,2018,WC28,Second round,7,0
+WC,2018,WC28,Second round,8,0
+WC,2018,WC28,Second round,9,0
+WC,2018,WC28,Second round,10,1
+WC,2018,WC29,Second round,1,1
+WC,2018,WC29,Second round,2,1
+WC,2018,WC29,Second round,3,1
+WC,2018,WC29,Second round,4,1
+WC,2018,WC29,Second round,5,1
+WC,2018,WC29,Second round,6,0
+WC,2018,WC29,Second round,7,0
+WC,2018,WC29,Second round,8,1
+WC,2018,WC29,Second round,9,0
+WC,2018,WC29,Second round,10,1
+WC,2018,WC30,Quarter-finals,1,0
+WC,2018,WC30,Quarter-finals,2,1
+WC,2018,WC30,Quarter-finals,3,1
+WC,2018,WC30,Quarter-finals,4,0
+WC,2018,WC30,Quarter-finals,5,0
+WC,2018,WC30,Quarter-finals,6,1
+WC,2018,WC30,Quarter-finals,7,1
+WC,2018,WC30,Quarter-finals,8,1
+WC,2018,WC30,Quarter-finals,9,1
+WC,2018,WC30,Quarter-finals,10,1
+EU,1976,EU1,Final,1,1
+EU,1976,EU1,Final,2,1
+EU,1976,EU1,Final,3,1
+EU,1976,EU1,Final,4,1
+EU,1976,EU1,Final,5,1
+EU,1976,EU1,Final,6,1
+EU,1976,EU1,Final,7,1
+EU,1976,EU1,Final,8,0
+EU,1976,EU1,Final,9,1
+EU,1980,EU2,3rd Place,1,1
+EU,1980,EU2,3rd Place,2,1
+EU,1980,EU2,3rd Place,3,1
+EU,1980,EU2,3rd Place,4,1
+EU,1980,EU2,3rd Place,5,1
+EU,1980,EU2,3rd Place,6,1
+EU,1980,EU2,3rd Place,7,1
+EU,1980,EU2,3rd Place,8,1
+EU,1980,EU2,3rd Place,9,1
+EU,1980,EU2,3rd Place,10,1
+EU,1980,EU2,3rd Place,11,1
+EU,1980,EU2,3rd Place,12,1
+EU,1980,EU2,3rd Place,13,1
+EU,1980,EU2,3rd Place,14,1
+EU,1980,EU2,3rd Place,15,1
+EU,1980,EU2,3rd Place,16,1
+EU,1980,EU2,3rd Place,17,1
+EU,1980,EU2,3rd Place,18,0
+EU,1980,EU3,Semi-finals,1,1
+EU,1980,EU3,Semi-finals,2,1
+EU,1980,EU3,Semi-finals,3,1
+EU,1980,EU3,Semi-finals,4,1
+EU,1980,EU3,Semi-finals,5,1
+EU,1980,EU3,Semi-finals,6,1
+EU,1980,EU3,Semi-finals,7,1
+EU,1980,EU3,Semi-finals,8,1
+EU,1980,EU3,Semi-finals,9,0
+EU,1980,EU3,Semi-finals,10,1
+EU,1984,EU4,Semi-finals,1,1
+EU,1984,EU4,Semi-finals,2,1
+EU,1984,EU4,Semi-finals,3,0
+EU,1984,EU4,Semi-finals,4,1
+EU,1984,EU4,Semi-finals,5,1
+EU,1984,EU4,Semi-finals,6,1
+EU,1984,EU4,Semi-finals,7,1
+EU,1984,EU4,Semi-finals,8,1
+EU,1984,EU4,Semi-finals,9,1
+EU,1984,EU4,Semi-finals,10,1
+EU,1992,EU5,Quarter-finals,1,1
+EU,1992,EU5,Quarter-finals,2,0
+EU,1992,EU5,Quarter-finals,3,1
+EU,1992,EU5,Quarter-finals,4,1
+EU,1992,EU5,Quarter-finals,5,1
+EU,1992,EU5,Quarter-finals,6,1
+EU,1992,EU5,Quarter-finals,7,1
+EU,1992,EU5,Quarter-finals,8,0
+EU,1996,EU6,Quarter-finals,1,1
+EU,1996,EU6,Quarter-finals,2,1
+EU,1996,EU6,Quarter-finals,3,1
+EU,1996,EU6,Quarter-finals,4,1
+EU,1996,EU6,Quarter-finals,5,1
+EU,1996,EU6,Quarter-finals,6,1
+EU,1996,EU6,Quarter-finals,7,0
+EU,1996,EU6,Quarter-finals,8,1
+EU,1996,EU6,Quarter-finals,9,1
+EU,1996,EU6,Quarter-finals,10,1
+EU,1996,EU7,Semi-finals,1,1
+EU,1996,EU7,Semi-finals,2,1
+EU,1996,EU7,Semi-finals,3,1
+EU,1996,EU7,Semi-finals,4,1
+EU,1996,EU7,Semi-finals,5,1
+EU,1996,EU7,Semi-finals,6,1
+EU,1996,EU7,Semi-finals,7,1
+EU,1996,EU7,Semi-finals,8,1
+EU,1996,EU7,Semi-finals,9,1
+EU,1996,EU7,Semi-finals,10,1
+EU,1996,EU7,Semi-finals,11,0
+EU,1996,EU7,Semi-finals,12,1
+EU,1996,EU8,Semi-finals,1,1
+EU,1996,EU8,Semi-finals,2,1
+EU,1996,EU8,Semi-finals,3,1
+EU,1996,EU8,Semi-finals,4,1
+EU,1996,EU8,Semi-finals,5,1
+EU,1996,EU8,Semi-finals,6,1
+EU,1996,EU8,Semi-finals,7,1
+EU,1996,EU8,Semi-finals,8,1
+EU,1996,EU8,Semi-finals,9,1
+EU,1996,EU8,Semi-finals,10,1
+EU,1996,EU8,Semi-finals,11,0
+EU,1996,EU8,Semi-finals,12,1
+EU,2000,EU9,Semi-finals,1,1
+EU,2000,EU9,Semi-finals,2,0
+EU,2000,EU9,Semi-finals,3,1
+EU,2000,EU9,Semi-finals,4,0
+EU,2000,EU9,Semi-finals,5,1
+EU,2000,EU9,Semi-finals,6,1
+EU,2000,EU9,Semi-finals,7,0
+EU,2000,EU9,Semi-finals,8,0
+EU,2004,EU10,Quarter-finals,1,0
+EU,2004,EU10,Quarter-finals,2,1
+EU,2004,EU10,Quarter-finals,3,1
+EU,2004,EU10,Quarter-finals,4,1
+EU,2004,EU10,Quarter-finals,5,1
+EU,2004,EU10,Quarter-finals,6,0
+EU,2004,EU10,Quarter-finals,7,1
+EU,2004,EU10,Quarter-finals,8,1
+EU,2004,EU10,Quarter-finals,9,1
+EU,2004,EU10,Quarter-finals,10,1
+EU,2004,EU10,Quarter-finals,11,1
+EU,2004,EU10,Quarter-finals,12,1
+EU,2004,EU10,Quarter-finals,13,0
+EU,2004,EU10,Quarter-finals,14,1
+EU,2004,EU11,Quarter-finals,1,1
+EU,2004,EU11,Quarter-finals,2,1
+EU,2004,EU11,Quarter-finals,3,1
+EU,2004,EU11,Quarter-finals,4,1
+EU,2004,EU11,Quarter-finals,5,0
+EU,2004,EU11,Quarter-finals,6,1
+EU,2004,EU11,Quarter-finals,7,1
+EU,2004,EU11,Quarter-finals,8,0
+EU,2004,EU11,Quarter-finals,9,1
+EU,2004,EU11,Quarter-finals,10,1
+EU,2004,EU11,Quarter-finals,11,0
+EU,2004,EU11,Quarter-finals,12,1
+EU,2008,EU12,Quarter-finals,1,0
+EU,2008,EU12,Quarter-finals,2,1
+EU,2008,EU12,Quarter-finals,3,1
+EU,2008,EU12,Quarter-finals,4,1
+EU,2008,EU12,Quarter-finals,5,0
+EU,2008,EU12,Quarter-finals,6,1
+EU,2008,EU12,Quarter-finals,7,0
+EU,2008,EU13,Quarter-finals,1,1
+EU,2008,EU13,Quarter-finals,2,1
+EU,2008,EU13,Quarter-finals,3,1
+EU,2008,EU13,Quarter-finals,4,0
+EU,2008,EU13,Quarter-finals,5,1
+EU,2008,EU13,Quarter-finals,6,1
+EU,2008,EU13,Quarter-finals,7,0
+EU,2008,EU13,Quarter-finals,8,0
+EU,2008,EU13,Quarter-finals,9,1
+EU,2012,EU14,Quarter-finals,1,1
+EU,2012,EU14,Quarter-finals,2,1
+EU,2012,EU14,Quarter-finals,3,0
+EU,2012,EU14,Quarter-finals,4,1
+EU,2012,EU14,Quarter-finals,5,1
+EU,2012,EU14,Quarter-finals,6,0
+EU,2012,EU14,Quarter-finals,7,1
+EU,2012,EU14,Quarter-finals,8,0
+EU,2012,EU14,Quarter-finals,9,1
+EU,2012,EU15,Semi-finals,1,0
+EU,2012,EU15,Semi-finals,2,0
+EU,2012,EU15,Semi-finals,3,1
+EU,2012,EU15,Semi-finals,4,1
+EU,2012,EU15,Semi-finals,5,1
+EU,2012,EU15,Semi-finals,6,1
+EU,2012,EU15,Semi-finals,7,1
+EU,2012,EU15,Semi-finals,8,0
+EU,2012,EU15,Semi-finals,9,1
+EU,2016,EU16,Round of 16,1,1
+EU,2016,EU16,Round of 16,2,1
+EU,2016,EU16,Round of 16,3,0
+EU,2016,EU16,Round of 16,4,1
+EU,2016,EU16,Round of 16,5,1
+EU,2016,EU16,Round of 16,6,1
+EU,2016,EU16,Round of 16,7,1
+EU,2016,EU16,Round of 16,8,1
+EU,2016,EU16,Round of 16,9,1
+EU,2016,EU16,Round of 16,10,1
+EU,2016,EU17,Quarter-finals,1,1
+EU,2016,EU17,Quarter-finals,2,1
+EU,2016,EU17,Quarter-finals,3,1
+EU,2016,EU17,Quarter-finals,4,1
+EU,2016,EU17,Quarter-finals,5,1
+EU,2016,EU17,Quarter-finals,6,1
+EU,2016,EU17,Quarter-finals,7,1
+EU,2016,EU17,Quarter-finals,8,0
+EU,2016,EU17,Quarter-finals,9,1
+EU,2016,EU18,Quarter-finals,1,1
+EU,2016,EU18,Quarter-finals,2,1
+EU,2016,EU18,Quarter-finals,3,0
+EU,2016,EU18,Quarter-finals,4,0
+EU,2016,EU18,Quarter-finals,5,1
+EU,2016,EU18,Quarter-finals,6,0
+EU,2016,EU18,Quarter-finals,7,0
+EU,2016,EU18,Quarter-finals,8,1
+EU,2016,EU18,Quarter-finals,9,0
+EU,2016,EU18,Quarter-finals,10,0
+EU,2016,EU18,Quarter-finals,11,1
+EU,2016,EU18,Quarter-finals,12,1
+EU,2016,EU18,Quarter-finals,13,1
+EU,2016,EU18,Quarter-finals,14,1
+EU,2016,EU18,Quarter-finals,15,1
+EU,2016,EU18,Quarter-finals,16,1
+EU,2016,EU18,Quarter-finals,17,0
+EU,2016,EU18,Quarter-finals,18,1
+CA,1993,CA1,Quarter-finals,1,1
+CA,1993,CA1,Quarter-finals,2,1
+CA,1993,CA1,Quarter-finals,3,1
+CA,1993,CA1,Quarter-finals,4,1
+CA,1993,CA1,Quarter-finals,5,1
+CA,1993,CA1,Quarter-finals,6,0
+CA,1993,CA1,Quarter-finals,7,1
+CA,1993,CA1,Quarter-finals,8,1
+CA,1993,CA1,Quarter-finals,9,1
+CA,1993,CA2,Quarter-finals,1,1
+CA,1993,CA2,Quarter-finals,2,1
+CA,1993,CA2,Quarter-finals,3,1
+CA,1993,CA2,Quarter-finals,4,1
+CA,1993,CA2,Quarter-finals,5,1
+CA,1993,CA2,Quarter-finals,6,1
+CA,1993,CA2,Quarter-finals,7,1
+CA,1993,CA2,Quarter-finals,8,1
+CA,1993,CA2,Quarter-finals,9,1
+CA,1993,CA2,Quarter-finals,10,1
+CA,1993,CA2,Quarter-finals,11,0
+CA,1993,CA2,Quarter-finals,12,1
+CA,1993,CA3,Semi-finals,1,1
+CA,1993,CA3,Semi-finals,2,1
+CA,1993,CA3,Semi-finals,3,1
+CA,1993,CA3,Semi-finals,4,1
+CA,1993,CA3,Semi-finals,5,1
+CA,1993,CA3,Semi-finals,6,1
+CA,1993,CA3,Semi-finals,7,1
+CA,1993,CA3,Semi-finals,8,1
+CA,1993,CA3,Semi-finals,9,1
+CA,1993,CA3,Semi-finals,10,1
+CA,1993,CA3,Semi-finals,11,0
+CA,1993,CA3,Semi-finals,12,1
+CA,1995,CA4,Quarter-finals,1,1
+CA,1995,CA4,Quarter-finals,2,1
+CA,1995,CA4,Quarter-finals,3,1
+CA,1995,CA4,Quarter-finals,4,1
+CA,1995,CA4,Quarter-finals,5,1
+CA,1995,CA4,Quarter-finals,6,1
+CA,1995,CA4,Quarter-finals,7,1
+CA,1995,CA4,Quarter-finals,8,1
+CA,1995,CA4,Quarter-finals,9,1
+CA,1995,CA4,Quarter-finals,10,0
+CA,1995,CA5,Quarter-finals,1,1
+CA,1995,CA5,Quarter-finals,2,1
+CA,1995,CA5,Quarter-finals,3,1
+CA,1995,CA5,Quarter-finals,4,0
+CA,1995,CA5,Quarter-finals,5,1
+CA,1995,CA5,Quarter-finals,6,0
+CA,1995,CA5,Quarter-finals,7,1
+CA,1995,CA6,Quarter-finals,1,1
+CA,1995,CA6,Quarter-finals,2,1
+CA,1995,CA6,Quarter-finals,3,1
+CA,1995,CA6,Quarter-finals,4,1
+CA,1995,CA6,Quarter-finals,5,0
+CA,1995,CA6,Quarter-finals,6,0
+CA,1995,CA6,Quarter-finals,7,1
+CA,1995,CA6,Quarter-finals,8,0
+CA,1995,CA6,Quarter-finals,9,1
+CA,1995,CA7,Final,1,1
+CA,1995,CA7,Final,2,1
+CA,1995,CA7,Final,3,1
+CA,1995,CA7,Final,4,1
+CA,1995,CA7,Final,5,1
+CA,1995,CA7,Final,6,0
+CA,1995,CA7,Final,7,1
+CA,1995,CA7,Final,8,1
+CA,1995,CA7,Final,9,1
+CA,1997,CA8,Quarter-finals,1,1
+CA,1997,CA8,Quarter-finals,2,1
+CA,1997,CA8,Quarter-finals,3,0
+CA,1997,CA8,Quarter-finals,4,1
+CA,1997,CA8,Quarter-finals,5,0
+CA,1997,CA8,Quarter-finals,6,0
+CA,1997,CA8,Quarter-finals,7,1
+CA,1997,CA8,Quarter-finals,8,1
+CA,1997,CA8,Quarter-finals,9,1
+CA,1997,CA8,Quarter-finals,10,0
+CA,1997,CA8,Quarter-finals,11,0
+CA,1997,CA8,Quarter-finals,12,1
+CA,1999,CA9,Quarter-finals,1,1
+CA,1999,CA9,Quarter-finals,2,1
+CA,1999,CA9,Quarter-finals,3,1
+CA,1999,CA9,Quarter-finals,4,1
+CA,1999,CA9,Quarter-finals,5,1
+CA,1999,CA9,Quarter-finals,6,0
+CA,1999,CA9,Quarter-finals,7,1
+CA,1999,CA9,Quarter-finals,8,0
+CA,1999,CA10,Quarter-finals,1,1
+CA,1999,CA10,Quarter-finals,2,1
+CA,1999,CA10,Quarter-finals,3,1
+CA,1999,CA10,Quarter-finals,4,1
+CA,1999,CA10,Quarter-finals,5,1
+CA,1999,CA10,Quarter-finals,6,1
+CA,1999,CA10,Quarter-finals,7,1
+CA,1999,CA10,Quarter-finals,8,0
+CA,1999,CA10,Quarter-finals,9,1
+CA,1999,CA11,Semi-finals,1,1
+CA,1999,CA11,Semi-finals,2,1
+CA,1999,CA11,Semi-finals,3,1
+CA,1999,CA11,Semi-finals,4,0
+CA,1999,CA11,Semi-finals,5,1
+CA,1999,CA11,Semi-finals,6,1
+CA,1999,CA11,Semi-finals,7,1
+CA,1999,CA11,Semi-finals,8,1
+CA,1999,CA11,Semi-finals,9,1
+CA,2001,CA12,3rd Place,1,1
+CA,2001,CA12,3rd Place,2,1
+CA,2001,CA12,3rd Place,3,0
+CA,2001,CA12,3rd Place,4,1
+CA,2001,CA12,3rd Place,5,1
+CA,2001,CA12,3rd Place,6,1
+CA,2001,CA12,3rd Place,7,1
+CA,2001,CA12,3rd Place,8,1
+CA,2001,CA12,3rd Place,9,1
+CA,2001,CA12,3rd Place,10,1
+CA,2004,CA13,Semi-finals,1,1
+CA,2004,CA13,Semi-finals,2,1
+CA,2004,CA13,Semi-finals,3,1
+CA,2004,CA13,Semi-finals,4,1
+CA,2004,CA13,Semi-finals,5,1
+CA,2004,CA13,Semi-finals,6,1
+CA,2004,CA13,Semi-finals,7,1
+CA,2004,CA13,Semi-finals,8,0
+CA,2004,CA13,Semi-finals,9,1
+CA,2004,CA14,Final,1,0
+CA,2004,CA14,Final,2,1
+CA,2004,CA14,Final,3,0
+CA,2004,CA14,Final,4,1
+CA,2004,CA14,Final,5,1
+CA,2004,CA14,Final,6,1
+CA,2004,CA14,Final,7,1
+CA,2004,CA14,Final,8,1
+CA,2007,CA15,Semi-finals,1,1
+CA,2007,CA15,Semi-finals,2,0
+CA,2007,CA15,Semi-finals,3,1
+CA,2007,CA15,Semi-finals,4,1
+CA,2007,CA15,Semi-finals,5,1
+CA,2007,CA15,Semi-finals,6,1
+CA,2007,CA15,Semi-finals,7,0
+CA,2007,CA15,Semi-finals,8,1
+CA,2007,CA15,Semi-finals,9,1
+CA,2007,CA15,Semi-finals,10,1
+CA,2007,CA15,Semi-finals,11,0
+CA,2007,CA15,Semi-finals,12,0
+CA,2007,CA15,Semi-finals,13,1
+CA,2007,CA15,Semi-finals,14,0
+CA,2011,CA16,Quarter-finals,1,1
+CA,2011,CA16,Quarter-finals,2,1
+CA,2011,CA16,Quarter-finals,3,1
+CA,2011,CA16,Quarter-finals,4,1
+CA,2011,CA16,Quarter-finals,5,0
+CA,2011,CA16,Quarter-finals,6,1
+CA,2011,CA16,Quarter-finals,7,1
+CA,2011,CA16,Quarter-finals,8,1
+CA,2011,CA16,Quarter-finals,9,1
+CA,2011,CA16,Quarter-finals,10,1
+CA,2011,CA17,Quarter-finals,1,0
+CA,2011,CA17,Quarter-finals,2,0
+CA,2011,CA17,Quarter-finals,3,0
+CA,2011,CA17,Quarter-finals,4,1
+CA,2011,CA17,Quarter-finals,5,0
+CA,2011,CA17,Quarter-finals,6,1
+CA,2011,CA17,Quarter-finals,7,0
+CA,2011,CA18,Semi-finals,1,1
+CA,2011,CA18,Semi-finals,2,1
+CA,2011,CA18,Semi-finals,3,1
+CA,2011,CA18,Semi-finals,4,1
+CA,2011,CA18,Semi-finals,5,1
+CA,2011,CA18,Semi-finals,6,0
+CA,2011,CA18,Semi-finals,7,1
+CA,2011,CA18,Semi-finals,8,1
+CA,2011,CA18,Semi-finals,9,1
+CA,2015,CA19,Quarter-finals,1,1
+CA,2015,CA19,Quarter-finals,2,1
+CA,2015,CA19,Quarter-finals,3,1
+CA,2015,CA19,Quarter-finals,4,1
+CA,2015,CA19,Quarter-finals,5,1
+CA,2015,CA19,Quarter-finals,6,1
+CA,2015,CA19,Quarter-finals,7,0
+CA,2015,CA19,Quarter-finals,8,1
+CA,2015,CA19,Quarter-finals,9,1
+CA,2015,CA19,Quarter-finals,10,0
+CA,2015,CA19,Quarter-finals,11,0
+CA,2015,CA19,Quarter-finals,12,0
+CA,2015,CA19,Quarter-finals,13,0
+CA,2015,CA19,Quarter-finals,14,1
+CA,2015,CA20,Quarter-finals,1,1
+CA,2015,CA20,Quarter-finals,2,1
+CA,2015,CA20,Quarter-finals,3,0
+CA,2015,CA20,Quarter-finals,4,1
+CA,2015,CA20,Quarter-finals,5,1
+CA,2015,CA20,Quarter-finals,6,1
+CA,2015,CA20,Quarter-finals,7,0
+CA,2015,CA20,Quarter-finals,8,0
+CA,2015,CA20,Quarter-finals,9,1
+CA,2015,CA20,Quarter-finals,10,1
+CA,2015,CA21,Final,1,1
+CA,2015,CA21,Final,2,1
+CA,2015,CA21,Final,3,1
+CA,2015,CA21,Final,4,0
+CA,2015,CA21,Final,5,1
+CA,2015,CA21,Final,6,0
+CA,2015,CA21,Final,7,1
+CA,2016,CA22,Quarter-finals,1,1
+CA,2016,CA22,Quarter-finals,2,1
+CA,2016,CA22,Quarter-finals,3,1
+CA,2016,CA22,Quarter-finals,4,1
+CA,2016,CA22,Quarter-finals,5,1
+CA,2016,CA22,Quarter-finals,6,0
+CA,2016,CA22,Quarter-finals,7,1
+CA,2016,CA22,Quarter-finals,8,0
+CA,2016,CA23,Final,1,0
+CA,2016,CA23,Final,2,0
+CA,2016,CA23,Final,3,1
+CA,2016,CA23,Final,4,1
+CA,2016,CA23,Final,5,1
+CA,2016,CA23,Final,6,1
+CA,2016,CA23,Final,7,1
+CA,2016,CA23,Final,8,0
+CA,2016,CA23,Final,9,1
